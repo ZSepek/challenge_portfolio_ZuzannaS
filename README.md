@@ -48,13 +48,14 @@ Aplikacja nie jest zbyt intuicyjna:
 
 4.3.Tworzenie raportów z meczy oraz ich symulacja jest niejasna. 
 
-**5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? **
+**5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?**
 
 5.1. Niewszystkie elementy na stronie są przetłumaczone na j. polski (w założeniu, że to właśnie on jest aktywny).
 5.2. W panelu zawodnika można dodawać wartości ujemne,nierealnie duże lub znaki specjalne.
 5.3. Występują literówki.
 5.4. Tabela graczy - w przypadku długiego opsiu tabela rozszerza się (dalej nie pokazująć końca długiej sentencji), dodatkowo nie można jej przesunąć żeby zobaczyć wcześniejsze dane. 
 5.5. Nie wszystkie metadane są przetłumaczone.
+5.6. Kontakt do deweloperów prowadzi do strony na asanie, a nie faktycznego szybkiego kontaktu. 
 
 
 
